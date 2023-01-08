@@ -7,7 +7,6 @@
     "test": "test"
   },
   "scripts": {
-    "build": "webpack"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +19,7 @@
   "author": "donutnel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ryanshumway/donutnel/issues"
+    "url": "https://github.com/donutnel/donutnel/issues"
   },
-  "homepage": "https://github.com/ryanshumway/donutnel#readme"
+  "homepage": "https://github.com/donutnel/tg-airdropbot#readme"
 }
