@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
+    "token" : "5832033797:AAFzEsnwCrVNIiIWdUG_CdsjlxuK9VuWTVw",
+    "admins" : ["admin"],
     "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "botname" :"Pythontest",
+    "signup" : 1,
+    "ref" : 1
 }
