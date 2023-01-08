@@ -1,1 +1,25 @@
 
+{
+  "name": "tg-airdropbot",
+  "version": "1.0.0",
+  "description": "telegram airdrop bot",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/donutnel/tg-airdropbot.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "donutnel",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ryanshumway/donutnel/issues"
+  },
+  "homepage": "https://github.com/ryanshumway/donutnel#readme"
+}
